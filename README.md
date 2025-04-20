@@ -51,6 +51,8 @@ idf.py monitor
 ##### Or you can write it in sinle line
 ->idf.py build flash monitor
 
-<img width="1470" alt="Screenshot 2025-04-20 at 11 18 38 AM" src="https://github.com/user-attachments/assets/837afd37-b879-40f7-97d0-e83ff5209d5e" />
-<img width="658" alt="Screenshot 2025-04-20 at 1 40 20 AM" src="https://github.com/user-attachments/assets/f9b51038-8c39-4e71-8b28-6a438bc10a72" />
+```
+<img width="1470" alt="Screenshot 2025-04-20 at 11 18 38 AM" src="https://github.com/user-attachments/assets/f6dc1bad-563e-4c44-8ea6-29cf25eaa8a9" />
+<img width="1470" alt="Screenshot 2025-04-19 at 1 19 51 PM" src="https://github.com/user-attachments/assets/ce942114-7019-48b2-8ead-d621926a4566" />
+
 
