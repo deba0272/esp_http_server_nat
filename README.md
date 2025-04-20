@@ -53,6 +53,7 @@ idf.py monitor
 
 ```
 <img width="1470" alt="Screenshot 2025-04-20 at 11 18 38 AM" src="https://github.com/user-attachments/assets/f6dc1bad-563e-4c44-8ea6-29cf25eaa8a9" />
-<img width="1470" alt="Screenshot 2025-04-19 at 1 19 51 PM" src="https://github.com/user-attachments/assets/ce942114-7019-48b2-8ead-d621926a4566" />
+![Untitled Diagram drawio (2)](https://github.com/user-attachments/assets/85839d0b-d38b-4132-ae5e-d39e270ed42f)
+
 
 
