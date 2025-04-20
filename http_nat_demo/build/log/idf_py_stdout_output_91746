@@ -1,0 +1,21 @@
+[0/1] cd /Users/debajyotiroy/esp_http_server_nat/http_nat_demo/build && /Users/debajyotiroy/.espressif/tools/cmake/3.30.2/CMake.app/Contents/bin/cmake -D "IDF_SIZE_TOOL=/Users/debajyotiroy/.espressif/python_env/idf5.4_py3.11_env/bin/python;-m;esp_idf_size" -D MAP_FILE=/Users/debajyotiroy/esp_http_server_nat/http_nat_demo/build/http_nat_demo.map -D OUTPUT_JSON= -P /Users/debajyotiroy/esp/esp-idf/tools/cmake/run_size_tool.cmake
+                             Memory Type Usage Summary                              
+┏━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━┳━━━━━━━━━━┳━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━┓
+┃ Memory Type/Section   ┃ Used [bytes] ┃ Used [%] ┃ Remain [bytes] ┃ Total [bytes] ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━╇━━━━━━━━━━╇━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━┩
+│ Flash Code            │       653122 │    19.54 │        2689182 │       3342304 │
+│    .text              │       653122 │    19.54 │                │               │
+│ Flash Data            │       140056 │     3.34 │        4054216 │       4194272 │
+│    .rodata            │       139800 │     3.33 │                │               │
+│    .appdesc           │          256 │     0.01 │                │               │
+│ IRAM                  │        96575 │    73.68 │          34497 │        131072 │
+│    .text              │        95547 │     72.9 │                │               │
+│    .vectors           │         1027 │     0.78 │                │               │
+│ DRAM                  │        33380 │    18.47 │         147356 │        180736 │
+│    .bss               │        17312 │     9.58 │                │               │
+│    .data              │        16068 │     8.89 │                │               │
+│ RTC FAST              │           28 │     0.34 │           8164 │          8192 │
+│    .force_fast        │           28 │     0.34 │                │               │
+│ RTC SLOW              │           24 │     0.29 │           8168 │          8192 │
+│    .rtc_slow_reserved │           24 │     0.29 │                │               │
+└───────────────────────┴──────────────┴──────────┴────────────────┴───────────────┘

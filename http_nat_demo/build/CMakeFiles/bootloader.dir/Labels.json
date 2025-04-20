@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/debajyotiroy/esp_http_server_nat/http_nat_demo/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "/Users/debajyotiroy/esp_http_server_nat/http_nat_demo/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "/Users/debajyotiroy/esp_http_server_nat/http_nat_demo/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "/Users/debajyotiroy/esp_http_server_nat/http_nat_demo/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "/Users/debajyotiroy/esp_http_server_nat/http_nat_demo/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "/Users/debajyotiroy/esp_http_server_nat/http_nat_demo/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "/Users/debajyotiroy/esp_http_server_nat/http_nat_demo/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "/Users/debajyotiroy/esp_http_server_nat/http_nat_demo/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "/Users/debajyotiroy/esp_http_server_nat/http_nat_demo/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "/Users/debajyotiroy/esp_http_server_nat/http_nat_demo/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}
