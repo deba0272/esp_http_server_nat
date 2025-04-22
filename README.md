@@ -4,11 +4,11 @@
 
 This project demonstrates how to implement an HTTP server on the ESP32 with SoftAP mode using ESP-IDF. Devices connected to the ESP32’s Wi-Fi AP can communicate with the ESP32 HTTP server without internet access.
 
-> 📡 This project doesn't use STA mode or internet — it purely serves over local SoftAP.
+> This project doesn't use STA mode or internet — it purely serves over local SoftAP.
 
 ---
 
-## 🔧 Features
+##Features
 
 - ESP32 acts as a Wi-Fi Access Point
 - HTTP server hosted on ESP32 for local clients
@@ -17,7 +17,7 @@ This project demonstrates how to implement an HTTP server on the ESP32 with Soft
 
 ---
 
-## 📁 Project Structure
+##Project Structure
 
 ```bash
 esp_http_server_nat/
@@ -33,21 +33,18 @@ esp_http_server_nat/
 # 1. Navigate to the project directory
 cd esp_http_server_nat/http_nat_demo
 
-# 2. Set the target chip
-idf.py set-target esp32
-
-# 3. Configure project settings
+# 2. Configure project settings
 idf.py menuconfig
 
-# 4. Build the project
+# 3. Build the project
 idf.py build
 
-# 5. Flash the firmware to ESP32
+# 4. Flash the firmware to ESP32
 idf.py flash
 
-# 6. Monitor the output
+# 5. Monitor the output
 idf.py monitor
-##### Or you can write it in sinle line
+##### Or you can write it in single line
 ->idf.py build flash monitor
 
 ```
